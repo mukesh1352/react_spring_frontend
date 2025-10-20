@@ -90,6 +90,7 @@ export interface TaskModel {
   command: string;
   taskExecutions?: TaskExecutionModel[];
 }
+```
 ## References
 
 - React 19
